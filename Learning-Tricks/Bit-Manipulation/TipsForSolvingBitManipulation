@@ -1,0 +1,6 @@
+Many of you might find bit manipulation questions 
+intimidating. Here's a tip: when approaching these problems, 
+think in binary, not decimal. Try dry running the problem 
+using binary numbers. Look for patterns—every bit 
+manipulation question has one. Once you spot the pattern, 
+solving becomes much easier!
